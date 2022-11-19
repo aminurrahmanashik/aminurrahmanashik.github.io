@@ -11,10 +11,14 @@ redirect_from:
 <p align="justify">
 
 I am a Final Year student in the department of <a href="https://cuet.ac.bd/dept/cse/">Computer Science and Engineering</a> at <a href="https://cuet.ac.bd/">Chittagong University of Engineering and Technology</a>. 
-I am enthusiastic in NLP research. 
-<!-- I am fortunate to be advised by <a href="https://web.cs.dartmouth.edu/people/sarah-masud-preum">Prof. Sarah M. Preum</a>. My primary research interest lies in the area of Natural Language Processing; particularly, I am enthusiastic about Multimodal NLP research. I am excited about problems like how we can build models that can efficiently fuse and meaningfully share features between multiple modalities (i.e. linguistic, acoustic, visual)? Because to enable seamless interaction between intelligent machines and humans, it is crucial to process, relate, and combine information from several modalities.
-</p>  -->
-
+I am enthusiastic in NLP research. I have been learning ML and DL about one year and recently got familiarized with NLP and it's relevant fields. My final year thesis is based on product evaluation from e-commerce sites. I always try to be simple but industrious. Problem solving is my entertainment. I really like to think real world problems by mathematics.
+</p>  
+<p align = "justify"
+Since I have been in the flow with ML and DL, I achieved some prestigious certificates after completing online courses i.e. Coursera, Udemy, Datacamp etc. I got <a href = "https://www.linkedin.com/in/aminur-rahman-642913161/recent-activity/shares/">recognition </a>from 
+<a href = "https://www.deeplearning.ai/">deeplearning.AI </a>
+  as an alpha tester from the new course <a href = "https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning">Unsupervised Learning, Recommenders, Reinforcement Learning </a>
+  and after that, promoted as a mentor for the same course.
+</p>
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
