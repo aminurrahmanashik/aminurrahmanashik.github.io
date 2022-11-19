@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Assalamu'alaikum! I'm Aminur Rahman!!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<p align="justify">
+
+I am a Final Year student in the department of <a href="https://cuet.ac.bd/dept/cse/">Computer Science and Engineering</a> at <a href="https://cuet.ac.bd/">Chittagong University of Engineering and Technology</a>. 
+I am enthusiastic in NLP research. 
+<!-- I am fortunate to be advised by <a href="https://web.cs.dartmouth.edu/people/sarah-masud-preum">Prof. Sarah M. Preum</a>. My primary research interest lies in the area of Natural Language Processing; particularly, I am enthusiastic about Multimodal NLP research. I am excited about problems like how we can build models that can efficiently fuse and meaningfully share features between multiple modalities (i.e. linguistic, acoustic, visual)? Because to enable seamless interaction between intelligent machines and humans, it is crucial to process, relate, and combine information from several modalities.
+</p>  -->
 
 A data-driven personal website
 ======
