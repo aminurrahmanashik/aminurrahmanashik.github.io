@@ -14,8 +14,8 @@ I am a Final Year student in the department of <a href="https://cuet.ac.bd/dept/
 I am enthusiastic in NLP research. I have been learning ML and DL about one year and recently got familiarized with NLP and it's relevant fields. My final year thesis is based on product evaluation from e-commerce sites. I always try to be simple but industrious. Problem solving is my entertainment. I really like to think real world problems by mathematics.
 </p>  
 <p align = "justify">
-Since I have been in the flow with ML and DL, I achieved some prestigious certificates after completing online courses i.e. Coursera, Udemy, Datacamp etc. I got <a href = "https://www.linkedin.com/in/aminur-rahman-642913161/recent-activity/shares/">recognition </a>from 
-<a href = "https://www.deeplearning.ai/">deeplearning.AI </a> as an alpha tester from the new course <a href = "https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning">Unsupervised Learning, Recommenders, Reinforcement Learning </a>
+Since I have been in the flow with ML and DL, I achieved some prestigious certificates after completing online courses i.e. Coursera, Udemy, Datacamp etc. I got <a href = "https://www.linkedin.com/in/aminur-rahman-642913161/recent-activity/shares/">recognition</a>from 
+<a href = "https://www.deeplearning.ai/">deeplearning.AI</a> as an alpha tester from the new course <a href = "https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning">Unsupervised Learning, Recommenders, Reinforcement Learning</a>
   and after that, promoted as a mentor for the same course.
 </p>
 A data-driven personal website
