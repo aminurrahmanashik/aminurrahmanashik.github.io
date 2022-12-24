@@ -30,12 +30,12 @@ Supervisor: DR. MUHAMMAD IBRAHIM KHAN
 
 **Python for Everybody Specialization**    
 By *Charles Severance* (completed)  
-[*<font color="#ff6633">[Appreciation]</font>*](https://www.coursera.org/account/accomplishments/specialization/certificate/GXDXN53LKC54) [(Coursera)](https://www.coursera.org/specializations/deep-learning)
+[*<font color="#ff6633">[Appreciation]</font>*](https://www.coursera.org/account/accomplishments/specialization/certificate/GXDXN53LKC54) [(Coursera)](https://www.coursera.org/specializations/python)
 
 
 **Machine Learning**  
 By *Andrew Ng* (completed)  
-[*<font color="#ff6633">[Appreciation]</font>*](https://www.coursera.org/account/accomplishments/certificate/9GUTKBGMTEEP) [*<font color="#ff6633">[ML Notes]</font>*](https://github.com/omar-sharif03/Deep-Learning-Notes) [(Coursera)](https://www.coursera.org/specializations/deep-learning)
+[*<font color="#ff6633">[Appreciation]</font>*](https://www.coursera.org/account/accomplishments/certificate/9GUTKBGMTEEP) [*<font color="#ff6633">[ML Notes]</font>*](https://github.com/omar-sharif03/Deep-Learning-Notes) [(Coursera)](https://www.coursera.org/account/accomplishments/certificate/9GUTKBGMTEEP)
 
 **Deep Learning Specialization**  
 By *Andrew Ng* (completed Three courses)  
