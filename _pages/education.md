@@ -35,7 +35,7 @@ By *Charles Severance* (completed)
 
 **Machine Learning**  
 By *Andrew Ng* (completed)  
-[*<font color="#ff6633">[Appreciation]</font>*](https://www.coursera.org/account/accomplishments/certificate/9GUTKBGMTEEP) [*<font color="#ff6633">[ML Notes]</font>*](https://github.com/omar-sharif03/Deep-Learning-Notes) [(Coursera)](https://www.coursera.org/learn/machine-learning)
+[*<font color="#ff6633">[Appreciation]</font>*](https://www.coursera.org/account/accomplishments/certificate/9GUTKBGMTEEP) [*<font color="#ff6633">[ML Notes]</font>*](https://github.com/omar-sharif03/Deep-Learning-Notes) [(Coursera)](https://www.coursera.org/specializations/machine-learning-introduction)
 
 **Deep Learning Specialization**  
 By *Andrew Ng* (completed Three courses)  
