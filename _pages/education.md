@@ -30,31 +30,31 @@ Supervisor: DR. MUHAMMAD IBRAHIM KHAN
 
 **Python for Everybody Specialization**    
 By *Charles Severance* (completed)  
-[*<font color="#ff6633">[Appreciation]</font>*](https://www.coursera.org/account/accomplishments/specialization/certificate/GXDXN53LKC54) [(Coursera)](https://www.coursera.org/specializations/python)
+[*<font color="#0049FF">[Appreciation]</font>*](https://www.coursera.org/account/accomplishments/specialization/certificate/GXDXN53LKC54) [(Coursera)](https://www.coursera.org/specializations/python)
 
 
 **Machine Learning**  
 By *Andrew Ng* (completed)  
-[*<font color="#ff6633">[Appreciation]</font>*](https://www.coursera.org/account/accomplishments/certificate/9GUTKBGMTEEP) [*<font color="#ff6633">[ML Notes]</font>*](https://drive.google.com/file/d/1mqXsQkUZ1cqxOR8fD6wJ9QS_K8Fg56RV/view?usp=share_link) [(Coursera)](https://www.coursera.org/specializations/machine-learning-introduction)
+[*<font color="#0049FF">[Appreciation]</font>*](https://www.coursera.org/account/accomplishments/certificate/9GUTKBGMTEEP) [*<font color="#ff6633">[ML Notes]</font>*](https://drive.google.com/file/d/1mqXsQkUZ1cqxOR8fD6wJ9QS_K8Fg56RV/view?usp=share_link) [(Coursera)](https://www.coursera.org/specializations/machine-learning-introduction)
 
 **Deep Learning Specialization**  
 By *Andrew Ng* (completed Three courses)  
-[*<font color="#ff6633">[Appreciation]</font>*](https://www.linkedin.com/in/aminur-rahman-642913161/details/certifications/) [*<font color="#ff6633">[DL Notes]</font>*](https://drive.google.com/drive/folders/1IXYPbdoyhZVLJhFOCk7LImiaMFJ0aWf5?usp=share_link) [(Coursera)](https://www.coursera.org/specializations/deep-learning)
+[*<font color="#0049FF">[Appreciation]</font>*](https://www.linkedin.com/in/aminur-rahman-642913161/details/certifications/) [*<font color="#ff6633">[DL Notes]</font>*](https://drive.google.com/drive/folders/1IXYPbdoyhZVLJhFOCk7LImiaMFJ0aWf5?usp=share_link) [(Coursera)](https://www.coursera.org/specializations/deep-learning)
 
           
 **DeepLearning.AI TensorFlow Developer Specialization**  
 By *Laurence Moroney* (completed)  
-[*<font color="#ff6633">[Appreciation]</font>*](https://www.coursera.org/account/accomplishments/specialization/certificate/DY793JL8LD2L) [*<font color="#ff6633">[TF Notes]</font>*](https://drive.google.com/drive/folders/1IXYPbdoyhZVLJhFOCk7LImiaMFJ0aWf5?usp=share_link)[(Coursera)](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+[*<font color="#0049FF">[Appreciation]</font>*](https://www.coursera.org/account/accomplishments/specialization/certificate/DY793JL8LD2L) [*<font color="#ff6633">[TF Notes]</font>*](https://drive.google.com/drive/folders/1IXYPbdoyhZVLJhFOCk7LImiaMFJ0aWf5?usp=share_link)[(Coursera)](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 
 
 **Natural Language Processing Specialization**  
 By *Younes Bensouda Mourri* and *Łukasz Kaiser* (Enrolled)  
-[*<font color="#ff6633">[Appreciation]</font>*](https://www.coursera.org/account/accomplishments/certificate/GN8S9YKJWNJK) [(Coursera)](https://www.coursera.org/specializations/natural-language-processing?)
+[*<font color="#0049FF">[Appreciation]</font>*](https://www.coursera.org/account/accomplishments/certificate/GN8S9YKJWNJK) [(Coursera)](https://www.coursera.org/specializations/natural-language-processing?)
 
 
 
 **Advanced Deep Learning with Keras**    
-[*<font color="#ff6633">[Appreciation]</font>*](https://www.datacamp.com/statement-of-accomplishment/course/274ab1d7f13f7a413b62cf5a51d833a614e0c0f7) [(Datacamp)](https://www.datacamp.com/courses/advanced-deep-learning-with-keras)
+[*<font color="#0049FF">[Appreciation]</font>*](https://www.datacamp.com/statement-of-accomplishment/course/274ab1d7f13f7a413b62cf5a51d833a614e0c0f7) [(Datacamp)](https://www.datacamp.com/courses/advanced-deep-learning-with-keras)
 
 **And Many More**  
-[*<font color="#ff6633">[Here]</font>*](https://www.linkedin.com/in/aminur-rahman-642913161/details/certifications/)
+[*<font color="#0049FF">[Here]</font>*](https://www.linkedin.com/in/aminur-rahman-642913161/details/certifications/)
