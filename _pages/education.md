@@ -35,16 +35,16 @@ By *Charles Severance* (completed)
 
 **Machine Learning**  
 By *Andrew Ng* (completed)  
-[*<font color="#ff6633">[Appreciation]</font>*](https://www.coursera.org/account/accomplishments/certificate/9GUTKBGMTEEP) [*<font color="#ff6633">[ML Notes]</font>*](https://github.com/omar-sharif03/Deep-Learning-Notes) [(Coursera)](https://www.coursera.org/specializations/machine-learning-introduction)
+[*<font color="#ff6633">[Appreciation]</font>*](https://www.coursera.org/account/accomplishments/certificate/9GUTKBGMTEEP) [*<font color="#ff6633">[ML Notes]</font>*](https://drive.google.com/file/d/1mqXsQkUZ1cqxOR8fD6wJ9QS_K8Fg56RV/view?usp=share_link) [(Coursera)](https://www.coursera.org/specializations/machine-learning-introduction)
 
 **Deep Learning Specialization**  
 By *Andrew Ng* (completed Three courses)  
-[*<font color="#ff6633">[Appreciation]</font>*](https://www.linkedin.com/in/aminur-rahman-642913161/details/certifications/) [*<font color="#ff6633">[DL Notes]</font>*](https://github.com/omar-sharif03/Deep-Learning-Notes) [(Coursera)](https://www.coursera.org/specializations/deep-learning)
+[*<font color="#ff6633">[Appreciation]</font>*](https://www.linkedin.com/in/aminur-rahman-642913161/details/certifications/) [*<font color="#ff6633">[DL Notes]</font>*](https://drive.google.com/drive/folders/1IXYPbdoyhZVLJhFOCk7LImiaMFJ0aWf5?usp=share_link) [(Coursera)](https://www.coursera.org/specializations/deep-learning)
 
           
 **DeepLearning.AI TensorFlow Developer Specialization**  
 By *Laurence Moroney* (completed)  
-[*<font color="#ff6633">[Appreciation]</font>*](https://www.coursera.org/account/accomplishments/specialization/certificate/DY793JL8LD2L) [(Coursera)](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+[*<font color="#ff6633">[Appreciation]</font>*](https://www.coursera.org/account/accomplishments/specialization/certificate/DY793JL8LD2L) [*<font color="#ff6633">[TF Notes]</font>*](https://drive.google.com/drive/folders/1IXYPbdoyhZVLJhFOCk7LImiaMFJ0aWf5?usp=share_link)[(Coursera)](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 
 
 **Natural Language Processing Specialization**  
