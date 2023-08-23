@@ -29,5 +29,5 @@ Since I have been in the flow with ML and DL, I achieved some prestigious certif
   and after that, promoted as a mentor for the same course.
 </p> -->
 <b>Contact</b> :  <font color= "#990033" >u1704013@student.cuet.ac.bd</font> <br>
-<b>Latest Resume</b> : <a href = "https://github.com/aminurrahmanashik/aminurrahmanashik.github.io/blob/master/files/1704013_resume.pdf"> <font color= "#0049FF" >[Click]</font></a>
+<b>Latest Resume</b> : <a href = "https://github.com/aminurrahmanashik/aminurrahmanashik.github.io/blob/master/files/CV_AminurRahman_CUET.pdf"> <font color= "#0049FF" >[Click]</font></a>
 
