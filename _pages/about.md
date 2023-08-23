@@ -14,11 +14,12 @@ redirect_from:
 I am enthusiastic in NLP research. I have been learning ML and DL about one year and recently got familiarized with NLP and it's relevant fields. My final year thesis is based on product evaluation from e-commerce sites. I always try to be simple but industrious. Problem solving is my entertainment. I really like to think real world problems by mathematics. -->
 
 I have completed my bachelor's degree from the Department of <a href="https://cuet.ac.bd/dept/cse/">Computer Science and Engineering</a> at <a href="https://cuet.ac.bd/">Chittagong University of Engineering and Technology</a>. I am enthusiastic about NLP research. Over the past year, I have been learning ML and DL, and I have recently become familiar with NLP and its relevant fields.
-
+</p>
 My enthusiasm for NLP research has been a driving force throughout my studies. Over the past year, I have dedicated myself to mastering Machine Learning (ML) and Deep Learning (DL), and more recently, I've delved into the intricacies of Natural Language Processing (NLP) and its relevant fields. This journey has allowed me to expand my expertise and insights.
-
+<p align="justify">
 For my final year thesis, I undertook a captivating exploration focused on product evaluation from e-commerce sites. With a penchant for simplicity and a strong work ethic, I approach challenges with an industrious mindset. Problem-solving serves as both entertainment and a path to personal growth for me.
-
+</p>
+<p align="justify">
 Notably, my commitment to continuous learning is evident through my prestigious certifications from reputable MOOCs i.e. Coursera, Udemy, Datacamp etc. I got <a href = "https://www.linkedin.com/posts/aminur-rahman-642913161_deeplearningai-mentoring-machinelearning-activity-6958813772618620929-cFWu/?utm_source=share&utm_medium=member_desktop">recognition</a> from 
 <a href = "https://www.deeplearning.ai/">deeplearning.AI</a> as an alpha tester from the new course <a href = "https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning">Unsupervised Learning, Recommenders, Reinforcement Learning</a>
   and after that, promoted as a mentor for the same course.
