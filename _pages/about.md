@@ -35,7 +35,7 @@ Since I have been in the flow with ML and DL, I achieved some prestigious certif
 ## <font color="#00cc66"> Important Dates </font>
 <div style="height: 400px; overflow: auto;">
 <pre>
-<span style="color:rgb(201, 76, 76)">16 June,23</span>   Graduated from CUET. 
-<span style="color:rgb(201, 76, 76)">29 May,23</span>    Successfully completed undergraduate thesis <font color="#0049FF">Alhamdulillah</font>.
+<span style="color:#00BFFF">16 June,23</span>   Graduated from CUET. 
+<span style="color:#00BFFF">29 May,23</span>    Successfully completed undergraduate thesis <font color="#0049FF">Alhamdulillah</font>.
 </pre>
 </div>
