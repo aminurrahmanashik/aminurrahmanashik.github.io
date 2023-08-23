@@ -9,7 +9,7 @@ redirect_from:
 
 **Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
 *Bachelors in Computer Science and Engineering*   
-Study Period: <b>February 2018 - Ongoing</b>   
+Study Period: <b>February 2018 - June 2023</b>   
 Supervisor: **Dr. Muhammad Ibrahim Khan**
 
 <!-- 
