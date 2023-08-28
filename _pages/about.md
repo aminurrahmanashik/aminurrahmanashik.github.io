@@ -32,7 +32,7 @@ Since I have been in the flow with ML and DL, I achieved some prestigious certif
 <b>Latest CV</b> : <a href = "https://github.com/aminurrahmanashik/aminurrahmanashik.github.io/blob/master/files/CV_AminurRahman_CUET.pdf"> <font color= "#0049FF" >[Click]</font></a>
 
    
-## <font color="#003cff"> Important Dates </font>
+## <font color="#541A75"> Important Dates </font>
 <div style="height: 400px; overflow: auto;">
 <pre>
 <span style="color:#00BFFF">16 June,23</span>   Graduated from CUET. 
