@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aminur Rahman (আমিনুর রহমান)"
 title_separator          : "-"
 name                     : &name "Aminur Rahman"
-description              : &description "personal description"
+description              : &description ""
 url                      : https://aminurrahmanashik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aminurrahmanashik/aminurrahmanashik.github.io"
@@ -21,7 +21,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus"  # false (default), "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Aminur Rahman"
   avatar           : "1704013_profile.jpg"
-  bio              : "Graduate in CSE (CUET)"
-#  location         : "Dhaka, Bangladesh"
-  #employer         :
+  bio              : "Lecturer @Dhaka International University | Graduated from CUET"
+  location         : "Dhaka, Bangladesh"
+  #employer         : "Lecturer at Dept. of CSE, DIU"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "aminurrahmanashik@gmail.com"
