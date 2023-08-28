@@ -26,7 +26,7 @@ Supervisor: **Dr. Muhammad Ibrahim Khan**
  **Research Assistant <font color="#541A75">[Dec 2018 - June 2019]</font>**    
  *CUET NLP Lab* -->
 
-## <font color="#00cc66"> Certifications </font>
+## <font color="#003cff"> Certifications </font>
 
 **Python for Everybody Specialization**    
 By *Charles Severance* (completed)  
