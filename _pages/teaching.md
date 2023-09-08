@@ -1,4 +1,6 @@
-I have been teaching the following courses in DIU. I conducted theory courses and lab sessions as an instructor. I have been creating lectures duely for regular classes and taking  class tests. In addition, assignning tasks as assignments, evaluating lab tests and final vivas. 
+I have been teaching the following courses in DIU. Conducting theory courses and lab sessions as an instructor. I have been creating lectures duely for regular classes and taking  class tests. In addition, assignning tasks as assignments, evaluating lab tests and final viva. 
+
+List of the courses that I have been conducting:
 
 | Role | Affiliation | Course Title | Course Code | Class Size | Resources | 
 |-- | --         | --          | ----         | -----|  ---|
