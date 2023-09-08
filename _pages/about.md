@@ -28,14 +28,15 @@ Since I have been in the flow with ML and DL, I achieved some prestigious certif
 <a href = "https://www.deeplearning.ai/">deeplearning.AI</a> as an alpha tester from the new course <a href = "https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning">Unsupervised Learning, Recommenders, Reinforcement Learning</a>
   and after that, promoted as a mentor for the same course.
 </p> -->
-<b>Email</b> :  <font color= "#990033" >u1704013@student.cuet.ac.bd</font> <br>
+<b>Email</b> :  <font color= "#541A75" >u1704013@student.cuet.ac.bd</font> <br>
 <b>Latest CV</b> : <a href = "https://github.com/aminurrahmanashik/aminurrahmanashik.github.io/blob/master/files/CV_AminurRahman_CUET.pdf"> <font color= "#0049FF" >[Click]</font></a>
 
    
 ## <font color="#541A75"> Important Dates </font>
 <div style="height: 400px; overflow: auto;">
 <pre>
-<span style="color:#00BFFF">16 June,23</span>   Graduated from CUET. 
-<span style="color:#00BFFF">29 May,23</span>    Successfully completed undergraduate thesis <font color="#0049FF">Alhamdulillah</font>.
+<span style="color:#541A75">01 Sep,23</span>    Joined as Lecturer in the Dept. of CSE @<a href = "https://diu.ac/">Dhaka International University</a>. 
+<span style="color:#541A75">16 June,23</span>   Graduated from <a href = "https://www.cuet.ac.bd/">CUET</a>. 
+<span style="color:#541A75">29 May,23</span>    Successfully completed undergraduate thesis <font color="#0049FF">Alhamdulillah</font>.
 </pre>
 </div>
