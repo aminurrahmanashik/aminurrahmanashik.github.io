@@ -33,8 +33,9 @@ Since I have been in the flow with ML and DL, I achieved some prestigious certif
 
    
 ## <font color="#0049FF"> Important Dates </font>
-<div style="height: 400px; overflow: auto;">
+<div style="height: 400px; overflow: auto;">   
 <pre>
+<span style="color:#541A75">01 Sep,23</span>    First conference paper <font color="#0ADA23">accepted</font> @<a href = "https://www.psit.ac.in/op/tcce23">TCCE-2023</a>. 
 <span style="color:#541A75">01 Sep,23</span>    Joined as Lecturer in the Dept. of CSE @<a href = "https://diu.ac/">Dhaka International University</a>. 
 <span style="color:#541A75">16 June,23</span>   Graduated from <a href = "https://www.cuet.ac.bd/">CUET</a>. 
 <span style="color:#541A75">29 May,23</span>    Successfully completed undergraduate thesis <font color="#0049FF">Alhamdulillah</font>.
