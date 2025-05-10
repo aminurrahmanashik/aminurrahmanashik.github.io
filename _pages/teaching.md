@@ -22,4 +22,4 @@ List of the courses that I have been conducting:
 |Instructor | DIU | Discrete Mathematics | 0613-105 | 38 | [<font color= "#990033" >🔗[0613-105]</font>](https://drive.google.com/drive/folders/1H6DMeDBQGrtsqXs9lQv0LzedWPX38Lvr?usp=drive_link)|
 
 
-https://drive.google.com/drive/folders/1H6DMeDBQGrtsqXs9lQv0LzedWPX38Lvr?usp=drive_link
+
