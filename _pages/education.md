@@ -6,11 +6,18 @@ permalink: /education/
 redirect_from: 
   - /about.html
 ---
-**Bachelor of Science in Computer Science & Engineering**   
-*Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)*   
-Study Period: <b>February 2018 - June 2023</b>  
-CGPA: **3.78**/4.00  
-Supervisor: **Dr. Muhammad Ibrahim Khan**
+**Bachelor of Science in Computer Science & Engineering**  
+*Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)*  
+Study Period: <b>February 2018 – June 2023</b>  
+CGPA: **3.78** / 4.00  
+Merit: <b>10<sup>th</sup></b> among 126  
+Supervisor: **Dr. Muhammad Ibrahim Khan**  
+**Undergraduate Thesis:** *“A Deep Learning-Based Pharmaceutical Product Evaluation from Bengali Reviews Considering Emojis”*  
+• Developed a benchmark dataset of 4,000+ pharmaceutical product reviews  
+• Addressed rating-review discrepancy concerns in the e-commerce industry  
+• Proposed a novel approach to integrate emoji effects in text classification tasks  
+• Implemented ML and hybrid deep learning methods to classify user-generated reviews 
+
 
 <!-- 
 ## <font color="#00cc66"> Academic Appointments </font>
