@@ -18,7 +18,7 @@ I am particularly passionate about building benchmark datasets, exploring multil
 
 ---
 
-# <font color="#00cc66">Research Experience</font>
+# <font color="#0049FF">Research Experience</font>
 
 **Founding Member & Researcher**, *KCR-Lab*  
 📍 Oct 2024 – Present  
@@ -39,7 +39,7 @@ I am particularly passionate about building benchmark datasets, exploring multil
 
 ---
 
-# <font color="#00cc66">Publications</font>
+# <font color="#0049FF">Publications</font>
 
 **[C.1]** *BScFilter: A Deep Learning Approach for Sports Comments Filtering in a Resource-Constrained Language*  
 **A. Rahman**, M.I. Khan, M.M.H. Rifat  
@@ -47,7 +47,7 @@ I am particularly passionate about building benchmark datasets, exploring multil
 
 ---
 
-# <font color="#00cc66">Under Review</font>
+# <font color="#0049FF">Under Review</font>
 
 **[J.1]** *Triple-Pooling Feature Fusion with Explainable AI for E-Commerce Review Analysis: A Low-Resource Language Perspective*  
 M.A. Mia, **A. Rahman**, M.I. Khan, I.H. Sarker  
