@@ -41,13 +41,15 @@ I am particularly passionate about building benchmark datasets, exploring multil
 
 # <font color="#0049FF">Publications</font>
 
-**[C.1]** *BScFilter: A Deep Learning Approach for Sports Comments Filtering in a Resource-Constrained Language*  
-**A. Rahman**, M.I. Khan, M.M.H. Rifat  
-📍 *5th International Conference on Trends in Computational and Cognitive Engineering (TCCE 2023)*  
+**[C.1]** <font color="#993333">*BScFilter: A Deep Learning Approach for Sports Comments Filtering in a Resource-Constrained Language*</font>   
+ <b><font color="#2d862d">A. Rahman</font></b>, M.I. Khan, M.M.H. Rifat   
+ [<font color="#4796C9">  [TCCE23, Springer] </font>](https://www.psit.ac.in/op/tcce23) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-981-97-1923-5_3)
+
+
 
 ---
 
-# <font color="#0049FF">Under Review</font>
+# <font color="#0049FF">Works in Progress</font>
 
 **[J.1]** *Triple-Pooling Feature Fusion with Explainable AI for E-Commerce Review Analysis: A Low-Resource Language Perspective*  
 M.A. Mia, **A. Rahman**, M.I. Khan, I.H. Sarker  
