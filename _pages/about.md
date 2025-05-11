@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Assalamu'alaikum! I'm Aminur Rahman"
+title: "Assalamu'alaikum!"
 excerpt: "Lecturer | AI Researcher | NLP Enthusiast"
 author_profile: true
 redirect_from: 
