@@ -1,5 +1,5 @@
 ---
-title: "Achievements/Skills"
+title: "Achievements"
 excerpt: ""
 permalink: /achievements/
 ---
@@ -10,6 +10,7 @@ permalink: /achievements/
 - **Best Poster Presenter** - Won the best poster presenter award in Algorithm Design Course [<a href="https://www.facebook.com/photo.php?fbid=736502090183876&set=pb.100014722744910.-2207520000.&type=3">Link</a>]
 - **ALPHA Tester for DeepLearning.AI** - Selected as an Alpha Tester for course development and promoted as a Course Mentor for Unsupervised Learning, Recommenders & RL [<a href="https://www.linkedin.com/posts/aminur-rahman-642913161_deeplearningai-mentoring-machinelearning-activity-6958813772618620929-cFWu/">Link</a>]
 - **Government Technical Board Scholarship** - Awarded each semester for academic excellence at CUET
+
 ---
 
 # <font color="#0049FF">Leadership & Additional Activities</font>
