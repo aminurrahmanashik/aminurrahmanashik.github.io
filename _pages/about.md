@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+https://diu.ac/programs/department-of-cse
 <p align="justify">
 
-I am Aminur Rahman, currently working as a <b>Lecturer</b> in the Department of <a href="https://diu.ac/">Computer Science and Engineering</a> at <a href="https://diu.ac/">Dhaka International University (DIU)</a>. I completed my Bachelor's degree from the Department of <a href="https://cuet.ac.bd/dept/cse/">Computer Science and Engineering</a> at <a href="https://cuet.ac.bd/">Chittagong University of Engineering and Technology (CUET)</a> in 2023.
+I am Aminur Rahman, currently working as a <b>Lecturer</b> in the Department of <a href="https://diu.ac/programs/department-of-cse">Computer Science and Engineering</a> at <a href="https://diu.ac/">Dhaka International University (DIU)</a>. I completed my Bachelor's degree from the Department of <a href="https://cuet.ac.bd/dept/cse/">Computer Science and Engineering</a> at <a href="https://cuet.ac.bd/">Chittagong University of Engineering and Technology (CUET)</a> in 2023.
 
 </p>
 
@@ -29,16 +30,9 @@ I am affiliated with <a href="https://kcr-lab.github.io/"><b>KCR-Lab</b></a> as 
 ---
 
 ## 📌 Current Roles
-- 👨‍🏫 Lecturer, Dept. of CSE @ DIU  
-- 🔬 Graduate Researcher @ <a href="https://kcr-lab.github.io/">Khan Computational Research Lab (KCR-Lab)</a>  
-- 🧠 AI Enthusiast with special interest in Bengali NLP and feedback analysis
-
----
-
-## 🏆 Achievements
-- 📄 Conference paper accepted @ <a href="https://www.psit.ac.in/op/tcce23">TCCE-2023</a>  
-- 🧪 Recognized by <a href="https://www.deeplearning.ai/">deeplearning.AI</a> as Alpha Tester & promoted as a Course Mentor for <a href="https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning">Unsupervised Learning, Recommenders & RL</a>  
-- 🎓 Graduated from CUET in June 2023
+- Lecturer, Dept. of CSE @ DIU  
+- Graduate Researcher @ <a href="https://kcr-lab.github.io/">Khan Computational Research Lab (KCR-Lab)</a>  
+- AI Enthusiast with special interest in Bengali NLP and feedback analysis
 
 ---
 
@@ -51,8 +45,8 @@ I am affiliated with <a href="https://kcr-lab.github.io/"><b>KCR-Lab</b></a> as 
 
 ## 📨 Contact
 
-<b>Email:</b> u1704013@student.cuet.ac.bd / aminurrahmanashik1704013@gmail.com  
-<b>CV:</b> <a href="https://github.com/aminurrahmanashik/aminurrahmanashik.github.io/blob/master/files/CV_AminurRahman_CUET.pdf">Click here for latest CV</a>  
+<b>Email:</b> aminurrahmanashik1704013@gmail.com  
+<b>CV:</b> <a href="https://drive.google.com/file/d/1Axet1ikiWVlxFDocW4v7vJy8dsvyfpik/view?usp=sharing">Resume</a>  
 <b>LinkedIn:</b> <a href="https://linkedin.com/in/aminur-rahman-642913161">Aminur Rahman</a>
 
 ---
