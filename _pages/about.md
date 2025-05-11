@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-https://diu.ac/programs/department-of-cse
 <p align="justify">
 
 I am Aminur Rahman, currently working as a <b>Lecturer</b> in the Department of <a href="https://diu.ac/programs/department-of-cse">Computer Science and Engineering</a> at <a href="https://diu.ac/">Dhaka International University (DIU)</a>. I completed my Bachelor's degree from the Department of <a href="https://cuet.ac.bd/dept/cse/">Computer Science and Engineering</a> at <a href="https://cuet.ac.bd/">Chittagong University of Engineering and Technology (CUET)</a> in 2023.
