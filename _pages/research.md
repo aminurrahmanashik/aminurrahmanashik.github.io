@@ -45,8 +45,6 @@ I am particularly passionate about building benchmark datasets, exploring multil
  <b><font color="#2d862d">A. Rahman</font></b>, M.I. Khan, M.M.H. Rifat   
  [<font color="#4796C9">  [TCCE23, Springer] </font>](https://www.psit.ac.in/op/tcce23) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-981-97-1923-5_3)
 
-
-
 ---
 
 # <font color="#0049FF">Works in Progress</font>
@@ -61,5 +59,28 @@ M.A. Mia, **A. Rahman**, M.I. Khan, I.H. Sarker
 
 ---
 
-> 📌 For further details, check out my [Google Scholar](https://scholar.google.com/) and [Semantic Scholar](https://www.semanticscholar.org/) profiles.
+# <font color="#0049FF">Research Projects</font>
 
+**Diabetes Factor Analysis with Outlier Detection** [[GitHub](https://github.com/aminurrahmanashik/Outlier-Based-Diabetes-Factor-Analysis-ML/blob/main/outlier-based-diabetes-factor-analysis-on-pima.ipynb)]  
+*Technologies: Scikit-learn, pandas, numpy, matplotlib, seaborn*  
+- Applied statistical methods to identify significant factors affecting diabetes diagnosis  
+- Implemented outlier detection techniques to improve feature selection quality  
+- Employed ensemble methods (Random Forest, XGBoost) for enhanced prediction accuracy  
+- Achieved 2–4% overall performance increment with outlier removal  
+
+**Sentiment Analysis on Twitter Texts** [[GitHub](https://github.com/aminurrahmanashik/sentiment_analysis_on_twitter_texts)]  
+*Technologies: Scikit-learn, NLTK, Transformers, Tkinter, pandas, matplotlib*  
+- Developed a system for social media sentiment classification  
+- Implemented multiple feature extraction techniques (TF-IDF, word embeddings)  
+- Compared performance across classical ML and deep learning approaches  
+- Created interactive interface for real-time sentiment prediction  
+
+**CUET-BUS-TRACKER: Real-time Transportation Monitoring System** [[GitHub](https://github.com/aminurrahmanashik/CUET-BUS-Tracker/tree/master)]  
+*Technologies: Java, Firebase, Google Maps API, Android Studio*  
+- Designed and implemented location tracking system for university transport  
+- Built Android application with real-time updates for student convenience  
+- Integrated Google Maps API with Firebase for synchronous data updates  
+
+---
+
+> 📌 For further details, check out my [Google Scholar](https://scholar.google.com/citations?user=tjb0lXcAAAAJ&hl=en&authuser=2) profile.
