@@ -20,7 +20,7 @@ List of the courses that I have been conducting:
 |Instructor | DIU | Numercial Analysis Lab| CSE-304 | 32 | [<font color= "#990033" >🔗[CSE-304]</font>](https://drive.google.com/drive/folders/1XUbKYkfTRPPs18S6exWqx5W1N5XjZWFE?usp=drive_link)|
 |Instructor | DIU | Discrete Mathematics | 0613-105 | 38 | [<font color= "#990033" >🔗[0613-105]</font>](https://drive.google.com/drive/folders/1H6DMeDBQGrtsqXs9lQv0LzedWPX38Lvr?usp=drive_link)|
 
-## Final Year Students Supervision
+# <font color="#0049FF">Final Year Students Supervision</font> 
 I have supervised several final year student projects, guiding them through research, development, and implementation. Below is a list of notable projects:
 
 | Project Title | Students | Year | Domain | Description | Resources |
@@ -29,13 +29,13 @@ I have supervised several final year student projects, guiding them through rese
 | An E-commerce Based Multi Vendor Web Application  | Md. Maksudul Hoque Khan, Md. Hasan, Mehedi Hasan, Habibur Rahman | 2025 | Web Development |A multi-vendor e-commerce platform that allows multiple independent sellers to register, list, and sell their products through a unified marketplace. The system includes separate interfaces for admin, vendors, and customers with features such as product management, order processing, user authentication, shopping cart functionality, and payment integration. The platform aims to create a single digital storefront where customers can find diverse products from various vendors while the platform owner manages the infrastructure and earns through commissions. | [<font color= "#990033" >🔗[Project Book]</font>](https://drive.google.com/file/d/1zWkYBXiguL7M4s8W1QB2tQfUH0_nNcSi/view?usp=sharing) |
 
 
-### Ongoing Projects:
+### <font color="#0049FF">Ongoing Projects</font>
 | Project Title | Students | Year | Domain | Description | Resources |
 |--|--|--|--|--|--|
 | Innovative Online Platform for Medical Devices & Healthcare Essentials | Md Khalekuzzaman Bakul, Atikul Islam, Mustafizur Rahman, Humayn Kobir | 2025 | Web Development and AI | - | [<font color= "#990033" >🔗[Project Book]</font>]() |
 
 
-### Ongoing Researches:
+### <font color="#0049FF">Ongoing Researches</font>
 | Research Title | Students | Year | Domain | Description | Resources |
 |--|--|--|--|--|--|
 | Suicidal Trend Analysis Among Bangladeshi Undergraduate Students using Machine Learning | - | 2025 | Machine Learning and Dataset Developmemt | - | [<font color= "#990033" >🔗[Project Book]</font>]() |
