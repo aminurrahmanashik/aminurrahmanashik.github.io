@@ -41,19 +41,23 @@ I am particularly passionate about building benchmark datasets, exploring multil
 
 # <font color="#0049FF">Publications</font>
 
-**[C.1]** <font color="#993333">*BScFilter: A Deep Learning Approach for Sports Comments Filtering in a Resource-Constrained Language*</font>   
- <b><font color="#2d862d">A. Rahman</font></b>, M.I. Khan, M.M.H. Rifat   
+**[C.1]** <font color="#993333"> *BScFilter: A Deep Learning Approach for Sports Comments Filtering in a Resource-Constrained Language*</font>   
+**A. Rahman**, M.I. Khan, M.M.H. Rifat   
  [<font color="#4796C9">  [TCCE23, Springer] </font>](https://www.psit.ac.in/op/tcce23) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-981-97-1923-5_3)
 
 ---
 
 # <font color="#0049FF">Works in Progress</font>
 
-**[J.1]** *Triple-Pooling Feature Fusion with Explainable AI for E-Commerce Review Analysis: A Low-Resource Language Perspective*  
+**[J.1]** *BanGRev: A novel Bengali tech gadget review corpus utilizing triple-pooling feature fusion with explainable AI*  
 M.A. Mia, **A. Rahman**, M.I. Khan, I.H. Sarker  
 📝 *Journal Submission – Under Review*  
 
-**[C.2]** *Optimizing Eye Disease Classification with Vision Transformers: An Analysis of Bangladeshi Fundus Images*  
+**[J.1]** *Addressing Rating-Review Discrepancy in a Novel Dataset: An Explainable Pharmaceutical Product Evaluation using Multi-Stream Attention Transformer*  
+**A. Rahman**, M.A. Mia, M.I. Khan, I.H. Sarker  
+📝 *Journal Submission – Under Review*  
+
+**[C.1]** *Optimizing Eye Disease Classification with Vision Transformers: An Analysis of Bangladeshi Fundus Images*  
 **A. Rahman**, M. Hasan, M.A. Mia, M.I. Khan  
 📝 *Conference Submission – Under Review*
 
