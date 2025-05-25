@@ -40,10 +40,9 @@ I am particularly passionate about building benchmark datasets, exploring multil
 ---
 
 # <font color="#0049FF">Publications</font>
-
-**[C.1]** <font color="#993333"> *BScFilter: A Deep Learning Approach for Sports Comments Filtering in a Resource-Constrained Language*</font>   
-**A. Rahman**, M.I. Khan, M.M.H. Rifat   
- [<font color="#4796C9">  [TCCE23, Springer] </font>](https://www.psit.ac.in/op/tcce23) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-981-97-1923-5_3)
+**[C.1]** <font color="red">*BScFilter: A Deep Learning Approach for Sports Comments Filtering in a Resource-Constrained Language*</font>  
+**A. Rahman**, M.I. Khan, M.M.H. Rifat  
+[<font color="#4796C9">[TCCE23, Springer]</font>](https://www.psit.ac.in/op/tcce23) / [<font color="#4796C9">[Paper]</font>](https://link.springer.com/chapter/10.1007/978-981-97-1923-5_3)
 
 ---
 
@@ -53,7 +52,7 @@ I am particularly passionate about building benchmark datasets, exploring multil
 M.A. Mia, **A. Rahman**, M.I. Khan, I.H. Sarker  
 📝 *Journal Submission – Under Review*  
 
-**[J.1]** *Addressing Rating-Review Discrepancy in a Novel Dataset: An Explainable Pharmaceutical Product Evaluation using Multi-Stream Attention Transformer*  
+**[J.2]** *Addressing Rating-Review Discrepancy in a Novel Dataset: An Explainable Pharmaceutical Product Evaluation using Multi-Stream Attention Transformer*  
 **A. Rahman**, M.A. Mia, M.I. Khan, I.H. Sarker  
 📝 *Journal Submission – Under Review*  
 
