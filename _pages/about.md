@@ -13,11 +13,11 @@ I am Aminur Rahman, currently working as a <b>Lecturer</b> in the Department of 
 </p>
 
 <p align="justify">
-I am deeply passionate about <b>Natural Language Processing (NLP)</b>, <b>Machine Learning (ML)</b>, and <b>Deep Learning (DL)</b>, with growing expertise in developing AI-driven solutions for underrepresented languages like Bengali. My research primarily focuses on <b>text classification, sentiment analysis, multimodal content analysis</b>, and <b>language technology for e-commerce and healthcare</b>.
+I am deeply passionate about <b>Natural Language Processing (NLP)</b>, <b>Large Language Models (LLMs)</b>, and <b>Neural Networks (NN)</b>, with growing expertise in developing AI-driven solutions for underrepresented languages like Bengali. My research primarily focuses on <b>text classification, sentiment analysis, multimodal content analysis</b>, and <b>language technology for e-commerce and healthcare</b>.
 </p>
 
 <p align="justify">
-I am affiliated with <a href="https://kcr-lab.github.io/"><b>KCR-Lab</b></a> as a graduate researcher, where I work on multiple cutting-edge projects under the supervision of Prof. Dr. Muhammad Ibrahim Khan. At DIU, I serve as the <b>Advisor for the DIU Cyber Security Club</b> and <b>Coordinator for Undergraduate Pre-defence Sessions</b>, where I guide students, organize workshops, and facilitate academic activities.
+I am affiliated with <a href="https://kcr-lab.github.io/"><b>KCR-Lab</b></a> as a graduate researcher, where I work on multiple cutting-edge projects under the supervision of Prof. Dr. Muhammad Ibrahim Khan. At DIU, I serve as the <b>Advisor for the DIU Cyber Security Club</b> and where I guide students, organize workshops, and facilitate academic activities.
 </p>
 
 ---
@@ -26,8 +26,6 @@ I am affiliated with <a href="https://kcr-lab.github.io/"><b>KCR-Lab</b></a> as 
 - Lecturer, Dept. of CSE @ DIU  
 - Graduate Researcher @ <a href="https://kcr-lab.github.io/">Khan Computational Research Lab (KCR-Lab)</a>  
 - Advisor, DIU Cyber Security Club  
-- Coordinator, Undergraduate Pre-defence Sessions  
-- AI Enthusiast with special interest in Bengali NLP and feedback analysis
 
 ---
 
@@ -37,14 +35,15 @@ I am affiliated with <a href="https://kcr-lab.github.io/"><b>KCR-Lab</b></a> as 
 <code>IELTS: 6.5 (S: 7.0, NBLT: 6.0)</code>
 
 # <font color="#0049FF">Contact</font>
-<b>Email:</b> aminurrahmanashik1704013@gmail.com  
-<b>CV:</b> <a href="https://drive.google.com/file/d/1Axet1ikiWVlxFDocW4v7vJy8dsvyfpik/view?usp=sharing">Resume</a>  
+<b>Email:</b> 24mcse701@student.cuet.ac.bd  
+<b>CV:</b> <a href="https://github.com/aminurrahmanashik/aminurrahmanashik.github.io/blob/master/files/Academic_CV_Aminur_Rahman_updated.pdf">Resume</a>  
 <b>LinkedIn:</b> <a href="https://linkedin.com/in/aminur-rahman-642913161">Aminur Rahman</a>
 
 ---
 
 # <font color="#0049FF">Timeline Highlights</font>
 <pre>
+<span style="color:#541A75">01 Sep, 2025</span>   Paper <font color="#0ADA23">accepted</font> @ BIM-2025
 <span style="color:#541A75">05 Nov, 2023</span>   First conference paper <font color="#0ADA23">accepted</font> @ TCCE-2023
 <span style="color:#541A75">01 Sep, 2023</span>   Joined as Lecturer @ Dhaka International University (DIU)
 <span style="color:#541A75">16 Jun, 2023</span>   Graduated from CUET <font color="#0049FF">Alhamdulillah</font>
