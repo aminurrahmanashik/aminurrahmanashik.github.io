@@ -6,9 +6,12 @@ permalink: /education/
 redirect_from: 
   - /about.html
 ---
+**Master of Science in Computer Science & Engineering**  
+*Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)*  
+Study Period: <b> 2025 – present</b>  
 **Bachelor of Science in Computer Science & Engineering**  
 *Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)*  
-Study Period: <b>February 2018 – June 2023</b>  
+Study Period: <b>2018 – 2023</b>  
 CGPA: **3.78** / 4.00  
 Merit: <b>10<sup>th</sup></b> among 126  
 Supervisor: **Dr. Muhammad Ibrahim Khan**  
