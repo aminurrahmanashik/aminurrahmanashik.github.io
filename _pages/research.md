@@ -41,13 +41,17 @@ I am particularly passionate about building benchmark datasets, exploring multil
 
 # <font color="#0049FF">Publications</font>
 **[C.1]** *<font color="red">BScFilter: A Deep Learning Approach for Sports Comments Filtering in a Resource-Constrained Language</font>*  
-**A. Rahman**, M.I. Khan, M.M.H. Rifat  
+**A. Rahman**, M.I. Khan, M.M.H. Rifat
 [<font color="#4796C9">[TCCE23, Springer]</font>](https://www.psit.ac.in/op/tcce23) / [<font color="#4796C9">[Paper]</font>](https://link.springer.com/chapter/10.1007/978-981-97-1923-5_3)
 
 **[C.2]** *<font color="red">Vision Transformers for Multi-Class Eye Disease Classification: Enhancing Early Detection in Resource-Constrained Healthcare Settings
 </font>*  
-**A. Rahman**, M. Hasan, M.A. Mia, M.I. Khan,
+**A. Rahman**, M. Hasan, M.A. Mia, M.I. Khan
 [<font color="#4796C9">[BIM25, Springer]</font>](https://confbim.com/) / [<font color="#4796C9">[Paper]</font>]()
+
+**[C.3]** *<font color="red">Addressing the Mental Health Crisis: Understanding Suicidal Risk Factors in University Students Through Interpretable Machine Learning</font>*  
+A. Islam, **A. Rahman**, M.J. Abdin, O. Rahaman, M.N. Alam
+[<font color="#4796C9">[IDAA25, Springer]</font>](https://idaa.diu.edu.bd/) / [<font color="#4796C9">[Paper]</font>]()
 
 ---
 
