@@ -43,9 +43,10 @@ I am affiliated with <a href="https://kcr-lab.github.io/"><b>KCR-Lab</b></a> as 
 
 # <font color="#0049FF">Timeline Highlights</font>
 <pre>
-<span style="color:#541A75">01 Sep, 2025</span>   Paper <font color="#0ADA23">accepted</font> @ BIM-2025
-<span style="color:#541A75">05 Nov, 2023</span>   First conference paper <font color="#0ADA23">accepted</font> @ TCCE-2023
-<span style="color:#541A75">01 Sep, 2023</span>   Joined as Lecturer @ Dhaka International University (DIU)
+<span style="color:#541A75">17 Nov, 2025</span>   Students Paper <font color="#0ADA23">accepted</font> @ <a href="https://idaa.diu.edu.bd/">IDDA-2025</a>
+<span style="color:#541A75">01 Sep, 2025</span>   Paper <font color="#0ADA23">accepted</font> @ <a href="https://confbim.com/">BIM-2025</a>
+<span style="color:#541A75">05 Nov, 2023</span>   First conference paper <font color="#0ADA23">accepted</font> @ <a href="https://psitche.ac.in/tcce/">TCCE-2023</a>
+<span style="color:#541A75">01 Sep, 2023</span>   Joined as Lecturer @ <a href="https://profile.diu.ac/aminurrahman#PersonalInformation">Dhaka International University (DIU)</a> 
 <span style="color:#541A75">16 Jun, 2023</span>   Graduated from CUET <font color="#0049FF">Alhamdulillah</font>
 <span style="color:#541A75">29 May, 2023</span>   Completed Undergraduate Thesis
 </pre>
