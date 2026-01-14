@@ -6,20 +6,23 @@ permalink: /education/
 redirect_from: 
   - /about.html
 ---
-**Master of Science in Computer Science & Engineering**  
-*Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)*  
-Study Period: <b> 2025 – present</b>  
+**Doctor of Philosophy (PhD) in Information and Computer Science (ICS)**  
+*Graduate Teching Assistant, King Fahd University of Petroleum & Minerals [(KFUPM)](https://www.kfupm.edu.sa)*  
+Study Period: <b>January 2026 – Present</b>  
+
 **Bachelor of Science in Computer Science & Engineering**  
 *Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)*  
 Study Period: <b>2018 – 2023</b>  
 CGPA: **3.78** / 4.00  
 Merit: <b>10<sup>th</sup></b> among 126  
 Supervisor: **Dr. Muhammad Ibrahim Khan**  
-**Undergraduate Thesis:** *“A Deep Learning-Based Pharmaceutical Product Evaluation from Bengali Reviews Considering Emojis”*  
+
+**Undergraduate Thesis:**  
+*“A Deep Learning-Based Pharmaceutical Product Evaluation from Bengali Reviews Considering Emojis”*  
 • Developed a benchmark dataset of 4,000+ pharmaceutical product reviews  
-• Addressed rating-review discrepancy concerns in the e-commerce industry  
-• Proposed a novel approach to integrate emoji effects in text classification tasks  
-• Implemented ML and hybrid deep learning methods to classify user-generated reviews 
+• Addressed rating–review discrepancy issues in the e-commerce domain  
+• Proposed a novel emoji-aware approach for text classification  
+• Implemented machine learning and hybrid deep learning models for review analysis
 
 
 <!-- 
