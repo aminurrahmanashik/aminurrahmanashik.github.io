@@ -28,7 +28,7 @@ At DIU, I serve as the <b>Advisor for the DIU Cyber Security Club</b>, mentoring
 
 # <font color="#0049FF">Current Roles</font>
 - Lecturer (Study Leave), Dept. of CSE @ DIU  
-- Graduate Researcher @ <a href="https://kcr-lab.github.io/">Khan Computational Research Lab (KCR-Lab)</a>  
+- Graduate Researcher @ <a href="https://kcr-lab.github.io/" style="color:#0049FF;">Khan Computational Research Lab (KCR-Lab)</a>  
 - Advisor, DIU Cyber Security Club  
 
 ---
@@ -47,12 +47,12 @@ At DIU, I serve as the <b>Advisor for the DIU Cyber Security Club</b>, mentoring
 
 # <font color="#0049FF">Timeline Highlights</font>
 <pre>
-<span style="color:#541A75">11 Jan, 2026</span>   <font color="#0049FF">Alhamdulillah</font>, Started PhD in Information and Computer Science  @ <a href="/">KFUPM</a>
-<span style="color:#541A75">01 Dec, 2025</span>   2 Papers <font color="#0049FF">accepted</font> @ <a href="https://iccit.org.bd/2025/">ICCIT-2025</a>
-<span style="color:#541A75">17 Nov, 2025</span>   Students Paper <font color="#0049FF">accepted</font> @ <a href="https://idaa.diu.edu.bd/">IDDA-2025</a>
-<span style="color:#541A75">01 Sep, 2025</span>   Paper <font color="#0049FF">accepted</font> @ <a href="https://confbim.com/">BIM-2025</a>
-<span style="color:#541A75">05 Nov, 2023</span>   First conference paper <font color="#0049FF">accepted</font> @ <a href="https://psitche.ac.in/tcce/">TCCE-2023</a>
-<span style="color:#541A75">01 Sep, 2023</span>   Joined as Lecturer @ <a href="https://profile.diu.ac/aminurrahman#PersonalInformation">Dhaka International University (DIU)</a> 
-<span style="color:#541A75">16 Jun, 2023</span>   Graduated from CUET <font color="#0049FF">Alhamdulillah</font>
-<span style="color:#541A75">29 May, 2023</span>   Completed Undergraduate Thesis
+<span style="color:#541A75">11 Jan, 2026</span>   <font color="#46F527">Alhamdulillah</font>, Started PhD in Information and Computer Science  @ <a href="https://www.kfupm.edu.sa/"style="color:#0049FF;">KFUPM</a>  
+<span style="color:#541A75">01 Dec, 2025</span>   2 Papers <font color="#46F527">accepted</font> @ <a href="https://iccit.org.bd/2025/" style="color:#0049FF;">ICCIT-2025</a>    
+<span style="color:#541A75">17 Nov, 2025</span>   Students Paper <font color="#46F527">accepted</font> @ <a href="https://idaa.diu.edu.bd/" style="color:#0049FF;">IDDA-2025</a>  
+<span style="color:#541A75">01 Sep, 2025</span>   Paper <font color="#46F527">accepted</font> @ <a href="https://confbim.com/" style="color:#0049FF;">BIM-2025</a>  
+<span style="color:#541A75">05 Nov, 2023</span>   First conference paper <font color="#0049FF">accepted</font> @ <a href="https://psitche.ac.in/tcce/" style="color:#0049FF;">TCCE-2023</a>  
+<span style="color:#541A75">01 Sep, 2023</span>   Joined as Lecturer @ <a href="https://profile.diu.ac/aminurrahman#PersonalInformation" style="color:#0049FF;">Dhaka International University (DIU)</a>   
+<span style="color:#541A75">16 Jun, 2023</span>   Graduated from CUET <font color="#46F527">Alhamdulillah</font>  
+<span style="color:#541A75">29 May, 2023</span>   Completed Undergraduate Thesis  
 </pre>
