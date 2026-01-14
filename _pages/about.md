@@ -8,12 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-<p align="justify"> I am Aminur Rahman, currently on <b>study leave</b> to pursue a <b>PhD</b> while holding the position of <b>Lecturer</b> in the Department of <a href="https://diu.ac/programs/department-of-cse">Computer Science and Engineering</a> at <a href="https://diu.ac/">Dhaka International University (DIU)</a>. I also serve as a <b>Graduate Teaching Assistant (GTA)</b> at the <a href="https://www.kfupm.edu.sa/departments/ICS/Pages/default.aspx">Department of Information and Computer Science</a> in the College of Computing and Mathematics at <a href="https://www.kfupm.edu.sa/">King Fahd University of Petroleum and Minerals (KFUPM)</a>. I completed my Bachelor's degree from the Department of <a href="https://cuet.ac.bd/dept/cse/">Computer Science and Engineering</a> at <a href="https://cuet.ac.bd/">Chittagong University of Engineering and Technology (CUET)</a> in 2023. </p> <p align="justify"> I am deeply passionate about <b>Natural Language Processing (NLP)</b>, <b>Large Language Models (LLMs)</b>, and <b>Neural Networks (NN)</b>. My research focuses on <b>text classification, sentiment analysis, multimodal content analysis</b>, and developing <b>language technologies for e-commerce, healthcare, and social media</b>. I am particularly committed to creating AI-driven solutions for underrepresented languages such as Bengali, bridging the gap between advanced AI technologies and low-resource linguistic communities. </p> <p align="justify"> As a graduate researcher at <a href="https://kcr-lab.github.io/"><b>KCR-Lab</b></a>, I work on multiple cutting-edge projects under the supervision of Prof. Dr. Muhammad Ibrahim Khan. These projects span areas including multimodal AI, text-vision analysis, and practical applications of LLMs, aiming to contribute both to academic research and real-world AI solutions. </p> <p align="justify"> At DIU, I serve as the <b>Advisor for the DIU Cyber Security Club</b>, mentoring students, organizing workshops, and facilitating academic activities. In my role as a GTA at KFUPM, I assist in course instruction, guide students, and contribute to shaping future computer scientists in the field of information and computer science. </p>
+<p align="justify">
+I am Aminur Rahman, currently on <b>study leave</b> to pursue a <b>PhD</b> while holding the position of <b>Lecturer</b> in the Department of <a href="https://diu.ac/programs/department-of-cse" style="color:#0049FF;">CSE</a> at <a href="https://diu.ac/" style="color:#0049FF;">DIU</a>. I also serve as a <b>Graduate Teaching Assistant (GTA)</b> at the <a href="https://www.kfupm.edu.sa/departments/ICS/Pages/default.aspx" style="color:#0049FF;">Department of Information and Computer Science</a> in the College of Computing and Mathematics at <a href="https://www.kfupm.edu.sa/" style="color:#0049FF;">King Fahd University of Petroleum and Minerals (KFUPM)</a>. I completed my Bachelor's degree from the Department of <a href="https://cuet.ac.bd/dept/cse/" style="color:#0049FF;">CSE</a> at <a href="https://cuet.ac.bd/" style="color:#0049FF;">CUET</a> in 2023.
+</p>
+
+<p align="justify">
+I am deeply passionate about <b>Natural Language Processing (NLP)</b>, <b>Large Language Models (LLMs)</b>, and <b>Neural Networks (NN)</b>. My research focuses on <b>text classification, sentiment analysis, multimodal content analysis</b>, and developing <b>language technologies for e-commerce, healthcare, and social media</b>. I am particularly committed to creating AI-driven solutions for underrepresented languages such as Bengali, bridging the gap between advanced AI technologies and low-resource linguistic communities.
+</p>
+
+<p align="justify">
+As a graduate researcher at <a href="https://kcr-lab.github.io/" style="color:#0049FF;"><b>KCR-Lab</b></a>, I work on multiple cutting-edge projects under the supervision of Prof. Dr. Muhammad Ibrahim Khan. These projects span areas including multimodal AI, text-vision analysis, and practical applications of LLMs, aiming to contribute both to academic research and real-world AI solutions.
+</p>
+
+<p align="justify">
+At DIU, I serve as the <b>Advisor for the DIU Cyber Security Club</b>, mentoring students, organizing workshops, and facilitating academic activities. In my role as a GTA at KFUPM, I assist in course instruction, guide students, and contribute to shaping future computer scientists in the field of information and computer science.
+</p>
 
 ---
 
 # <font color="#0049FF">Current Roles</font>
-- Lecturer, Dept. of CSE @ DIU  
+- Lecturer (Study Leave), Dept. of CSE @ DIU  
 - Graduate Researcher @ <a href="https://kcr-lab.github.io/">Khan Computational Research Lab (KCR-Lab)</a>  
 - Advisor, DIU Cyber Security Club  
 
@@ -33,11 +47,11 @@ redirect_from:
 
 # <font color="#0049FF">Timeline Highlights</font>
 <pre>
-<span style="color:#541A75">11 Jan, 2026</span>   <font color="#0ADA23">Alhamdulillah</font>, Started PhD in Information and Computer Science  @ <a href="/">KFUPM</a>
-<span style="color:#541A75">01 Dec, 2025</span>   2 Papers <font color="#0ADA23">accepted</font> @ <a href="https://iccit.org.bd/2025/">ICCIT-2025</a>
-<span style="color:#541A75">17 Nov, 2025</span>   Students Paper <font color="#0ADA23">accepted</font> @ <a href="https://idaa.diu.edu.bd/">IDDA-2025</a>
-<span style="color:#541A75">01 Sep, 2025</span>   Paper <font color="#0ADA23">accepted</font> @ <a href="https://confbim.com/">BIM-2025</a>
-<span style="color:#541A75">05 Nov, 2023</span>   First conference paper <font color="#0ADA23">accepted</font> @ <a href="https://psitche.ac.in/tcce/">TCCE-2023</a>
+<span style="color:#541A75">11 Jan, 2026</span>   <font color="#0049FF">Alhamdulillah</font>, Started PhD in Information and Computer Science  @ <a href="/">KFUPM</a>
+<span style="color:#541A75">01 Dec, 2025</span>   2 Papers <font color="#0049FF">accepted</font> @ <a href="https://iccit.org.bd/2025/">ICCIT-2025</a>
+<span style="color:#541A75">17 Nov, 2025</span>   Students Paper <font color="#0049FF">accepted</font> @ <a href="https://idaa.diu.edu.bd/">IDDA-2025</a>
+<span style="color:#541A75">01 Sep, 2025</span>   Paper <font color="#0049FF">accepted</font> @ <a href="https://confbim.com/">BIM-2025</a>
+<span style="color:#541A75">05 Nov, 2023</span>   First conference paper <font color="#0049FF">accepted</font> @ <a href="https://psitche.ac.in/tcce/">TCCE-2023</a>
 <span style="color:#541A75">01 Sep, 2023</span>   Joined as Lecturer @ <a href="https://profile.diu.ac/aminurrahman#PersonalInformation">Dhaka International University (DIU)</a> 
 <span style="color:#541A75">16 Jun, 2023</span>   Graduated from CUET <font color="#0049FF">Alhamdulillah</font>
 <span style="color:#541A75">29 May, 2023</span>   Completed Undergraduate Thesis
