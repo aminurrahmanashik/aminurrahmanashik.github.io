@@ -41,31 +41,36 @@ I am particularly passionate about building benchmark datasets, exploring multil
 
 <table width="100%">
 <tr>
-<td><h1>Publications</h1></td>
-<td align="right"><sub>C: Conferences | J: Journals</sub></td>
+    <td>
+        <h1 style="color:#0049FF;">Publications</h1>
+    </td>
+    <td align="right">
+        <sub style="color🐦‍⬛;">C: Conferences | J: Journals</sub>
+    </td>
 </tr>
 </table>
 
 
-**[C.1]** *<font color="red">BScFilter: A Deep Learning Approach for Sports Comments Filtering in a Resource-Constrained Language</font>*  
-<u>**A. Rahman**</u>, M.I. Khan, M.M.H. Rifat    
-5<sup>th</sup> International Conference on Trends in Computational and Cognitive Engineering (**TCCE 2023**, Springer)  [<font color="#4796C9">[Paper]</font>](https://link.springer.com/chapter/10.1007/978-981-97-1923-5_3)
+**[C.1]** *<span style="color:red;">BScFilter: A Deep Learning Approach for Sports Comments Filtering in a Resource-Constrained Language</span>*  
+**A. Rahman**, M.I. Khan, M.M.H. Rifat  
+5<sup>th</sup> International Conference on Trends in Computational and Cognitive Engineering (**TCCE 2023**, Springer)  [<span style="color:#4796C9;">[Paper]</span>](https://link.springer.com/chapter/10.1007/978-981-97-1923-5_3)
 
-**[C.2]** *<font color="red">Vision Transformers for Multi-Class Eye Disease Classification: Enhancing Early Detection in Resource-Constrained Healthcare</font>*  
-<u>**A. Rahman**</u>, M. Hasan, M.A. Mia, M.I. Khan  
+**[C.2]** *<span style="color:red;">Vision Transformers for Multi-Class Eye Disease Classification: Enhancing Early Detection in Resource-Constrained Healthcare</span>*  
+**A. Rahman**, M. Hasan, M.A. Mia, M.I. Khan  
 3<sup>rd</sup> International Conference on Big Data, IoT and Machine Learning (**BIM 2025**, Springer)
 
-**[C.3]** *<font color="red">Addressing the Mental Health Crisis: Understanding Suicidal Risk Factors in University Students Through Interpretable Machine Learning</font>*  
-A. Islam, <u>**A. Rahman**</u>, M.J. Abdin, O. Rahaman, M.N. Alam    
+**[C.3]** *<span style="color:red;">Addressing the Mental Health Crisis: Understanding Suicidal Risk Factors in University Students Through Interpretable Machine Learning</span>*  
+A. Islam, **A. Rahman**, M.J. Abdin, O. Rahaman, M.N. Alam  
 International Conference on Intelligent Data Analysis and Applications (**IDAA 2025**, Springer)
 
-**[C.4]** *<font color="red">SETBoost: An Interpretable Machine Learning Approach for Predicting Software Employee Turnover Tendency</font>*    
-<u>**A. Rahman**</u>, M.I. Hossain, M.A. Mia, M.I. Khan  
-28<sup>th</sup> International Conference on Computer and Information Technology (**ICCIT 2025**, IEEE Xplore)  [<font color="#4796C9">[Preprint]</font>](https://drive.google.com/file/d/1mXfd_hm-Ti8pAYkO2-431rzGIq0_L98F/view?usp=sharing)
+**[C.4]** *<span style="color:red;">SETBoost: An Interpretable Machine Learning Approach for Predicting Software Employee Turnover Tendency</span>*  
+**A. Rahman**, M.I. Hossain, M.A. Mia, M.I. Khan  
+28<sup>th</sup> International Conference on Computer and Information Technology (**ICCIT 2025**, IEEE Xplore)  [<span style="color:#4796C9;">[Preprint]</span>](https://drive.google.com/file/d/1mXfd_hm-Ti8pAYkO2-431rzGIq0_L98F/view?usp=sharing)
 
-**[C.5]** *<font color="red">Evaluating Prompting and Fine-Tuning Approaches for Bengali Violence Detection in a Low-Resource Language</font>*  
-M.A. Mia, A. Hossain, <u>**A. Rahman**</u>, M.S. Mursalin, M.I. Khan   
-28<sup>th</sup> International Conference on Computer and Information Technology ((**ICCIT 2025**, IEEE Xplore) [<font color="#4796C9">[Preprint]</font>](https://drive.google.com/file/d/1wEjOJRyMUA5EF5Hk1PdeHOXeyQSwVpch/view?usp=sharing)
+**[C.5]** *<span style="color:red;">Evaluating Prompting and Fine-Tuning Approaches for Bengali Violence Detection in a Low-Resource Language</span>*  
+M.A. Mia, A. Hossain, **A. Rahman**, M.S. Mursalin, M.I. Khan  
+28<sup>th</sup> International Conference on Computer and Information Technology (**ICCIT 2025**, IEEE Xplore)  [<span style="color:#4796C9;">[Preprint]</span>](https://drive.google.com/file/d/1wEjOJRyMUA5EF5Hk1PdeHOXeyQSwVpch/view?usp=sharing)
+
 
 
 ---
