@@ -57,7 +57,7 @@ I am particularly passionate about building benchmark datasets, exploring multil
 
 **[C.2]** *<span style="color:red;">Vision Transformers for Multi-Class Eye Disease Classification: Enhancing Early Detection in Resource-Constrained Healthcare</span>*  
 **A. Rahman**, M. Hasan, M.A. Mia, M.I. Khan  
-3<sup>rd</sup> International Conference on Big Data, IoT and Machine Learning (**BIM 2025**, Springer)
+3<sup>rd</sup> International Conference on Big Data, IoT and Machine Learning (**BIM 2025**, Springer)  [<span style="color:#4796C9;">[Paper]</span>](https://link.springer.com/chapter/10.1007/978-3-032-15346-3_26)
 
 **[C.3]** *<span style="color:red;">Addressing the Mental Health Crisis: Understanding Suicidal Risk Factors in University Students Through Interpretable Machine Learning</span>*  
 A. Islam, **A. Rahman**, M.J. Abdin, O. Rahaman, M.N. Alam  
