@@ -39,7 +39,7 @@ At DIU, I serve as the <b>Advisor for the DIU Cyber Security Club</b>, mentoring
 <code>IELTS: 6.5 (S: 7.0, NBLT: 6.0)</code>
 
 # <font color="#0049FF">Contact</font>
-<b>Email:</b> 24mcse701@student.cuet.ac.bd  
+<b>Email:</b> g202528390@kfupm.edu.sa  
 <b>CV:</b> <a href="https://github.com/aminurrahmanashik/aminurrahmanashik.github.io/blob/master/files/Academic_CV_Aminur_Rahman_updated.pdf">Resume</a>  
 <b>LinkedIn:</b> <a href="https://linkedin.com/in/aminur-rahman-642913161">Aminur Rahman</a>
 
