@@ -47,7 +47,7 @@ At DIU, I serve as the <b>Advisor for the DIU Cyber Security Club</b>, mentoring
 
 # <font color="#0049FF">Timeline Highlights</font>
 <pre>
-<span style="color:#541A75">11 Jan, 2026</span>   <font color="#46F527">Alhamdulillah</font>, Started PhD in Information and Computer Science @ <a href="https://www.kfupm.edu.sa/"style="color:#0049FF;">KFUPM</a> 
+<span style="color:#541A75">11 Jan, 2026</span>   <font color="#46F527">Alhamdulillah</font>, Started PhD in Information and Computer Science @ <a href="https://www.kfupm.edu.sa/" style="color:#0049FF;">KFUPM</a>
 <span style="color:#541A75">01 Dec, 2025</span>   2 Papers <font color="#46F527">accepted</font> @ <a href="https://iccit.org.bd/2025/" style="color:#0049FF;">ICCIT-2025</a>    
 <span style="color:#541A75">17 Nov, 2025</span>   Students Paper <font color="#46F527">accepted</font> @ <a href="https://idaa.diu.edu.bd/" style="color:#0049FF;">IDDA-2025</a>  
 <span style="color:#541A75">01 Sep, 2025</span>   Paper <font color="#46F527">accepted</font> @ <a href="https://confbim.com/" style="color:#0049FF;">BIM-2025</a>  
