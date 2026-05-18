@@ -51,6 +51,7 @@ At DIU, I serve as the <b>Advisor for the DIU Cyber Security Club</b>, mentoring
 <span style="color:#541A75">01 Dec, 2025</span>   2 Papers <font color="#46F527">accepted</font> @ <a href="https://iccit.org.bd/2025/" style="color:#0049FF;">ICCIT-2025</a>    
 <span style="color:#541A75">17 Nov, 2025</span>   Students Paper <font color="#46F527">accepted</font> @ <a href="https://idaa.diu.edu.bd/" style="color:#0049FF;">IDDA-2025</a>  
 <span style="color:#541A75">01 Sep, 2025</span>   Paper <font color="#46F527">accepted</font> @ <a href="https://confbim.com/" style="color:#0049FF;">BIM-2025</a>  
+<span style="color:#541A75">24 Jul, 2025</span>   Reviewed one article @ <a href="https://drive.google.com/file/d/1crreJENJe9_hkjdbSn0xWu86TnHlpK-U/view?usp=sharing" style="color:#0049FF;">International Neuropsychiatric Disease Journal</a>  
 <span style="color:#541A75">05 Nov, 2023</span>   First conference paper <font color="#0049FF">accepted</font> @ <a href="https://psitche.ac.in/tcce/" style="color:#0049FF;">TCCE-2023</a>  
 <span style="color:#541A75">01 Sep, 2023</span>   Joined as Lecturer @ <a href="https://profile.diu.ac/aminurrahman#PersonalInformation" style="color:#0049FF;">Dhaka International University (DIU)</a>   
 <span style="color:#541A75">16 Jun, 2023</span>   Graduated from CUET <font color="#46F527">Alhamdulillah</font>  
