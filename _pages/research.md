@@ -65,11 +65,11 @@ International Conference on Intelligent Data Analysis and Applications (**IDAA 2
 
 **[C.4]** *<span style="color:red;">SETBoost: An Interpretable Machine Learning Approach for Predicting Software Employee Turnover Tendency</span>*  
 **A. Rahman**, M.I. Hossain, M.A. Mia, M.I. Khan  
-28<sup>th</sup> International Conference on Computer and Information Technology (**ICCIT 2025**, IEEE Xplore)  [<span style="color:#4796C9;">[Preprint]</span>](https://drive.google.com/file/d/1mXfd_hm-Ti8pAYkO2-431rzGIq0_L98F/view?usp=sharing)
+28<sup>th</sup> International Conference on Computer and Information Technology (**ICCIT 2025**, IEEE Xplore)  [<span style="color:#4796C9;">[Paper]</span>](https://ieeexplore.ieee.org/abstract/document/11491439)
 
 **[C.5]** *<span style="color:red;">Evaluating Prompting and Fine-Tuning Approaches for Bengali Violence Detection in a Low-Resource Language</span>*  
 M.A. Mia, A. Hossain, **A. Rahman**, M.S. Mursalin, M.I. Khan  
-28<sup>th</sup> International Conference on Computer and Information Technology (**ICCIT 2025**, IEEE Xplore)  [<span style="color:#4796C9;">[Preprint]</span>](https://drive.google.com/file/d/1wEjOJRyMUA5EF5Hk1PdeHOXeyQSwVpch/view?usp=sharing)
+28<sup>th</sup> International Conference on Computer and Information Technology (**ICCIT 2025**, IEEE Xplore)  [<span style="color:#4796C9;">[Paper]</span>](https://ieeexplore.ieee.org/abstract/document/11490499)
 
 
 
