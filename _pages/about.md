@@ -43,7 +43,6 @@ redirect_from:
 .port-divider { border: none; border-top: 1px solid #e8e8e8; margin: 1.5rem 0; }
 </style>
 
-<p class="sec-label">About</p>
 
 <div class="bio-block">
 <p>
