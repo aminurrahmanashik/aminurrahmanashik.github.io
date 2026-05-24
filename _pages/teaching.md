@@ -9,20 +9,25 @@ redirect_from:
 I have been teaching the following courses in DIU. Conducting theory courses and lab sessions as an instructor. I have been creating lectures duely for regular classes and taking class tests. In addition, assignning tasks as assignments, evaluating lab tests and final viva. 
 
 ## Courses
-List of the courses that I have been conducting:
+List of the courses that I have conducted:
 
-| Role | Affiliation | Course Title | Course Code | Class Size | Resources | 
-|------|-------------|--------------|-------------|------------|-----------|
-| Instructor | KFUPM | Introduction to Programming in Python and C (Lab) | ICS 104 | 25 | [🔗 ICS104](https://bulletin.kfupm.edu.sa/course-detail?course_code=ICS104) |
-| Instructor | DIU | Algorithms | 0613-205 | 35 | [🔗 0613-205](https://drive.google.com/drive/folders/1rVvyaqt2rK-DPuB0XRvDxF5tVTFaCN-D?usp=drive_link) |
-| Instructor | DIU | Algorithms Lab | 0613-206 | 35 | [🔗 0613-206](https://drive.google.com/drive/folders/1IYroHpD4vCs_YP4kSVlz-OfAQMGvD_Ci?usp=drive_link) |
-| Instructor | DIU | Artificial Intelligence and Neural Networks | CSE-407 | 34 | [🔗 CSE-407](https://drive.google.com/drive/folders/1y1WvsZrV9UM1HMa5T1s9IKXb9i_dRKm9?usp=sharing) |
-| Instructor | DIU | Artificial Intelligence and Neural Networks Lab | CSE-408 | 34 | [🔗 CSE-408](https://drive.google.com/drive/folders/1hLeRJJvg0VxVFAiJIun0htP4kqB9wSrF?usp=sharing) |
-| Instructor | DIU | Numerical Analysis | CSE-303 | 32 | [🔗 CSE-303](https://drive.google.com/drive/folders/1oED0rxNgsHr2wIIP0KXROmg73hpNaHY2?usp=drive_link) |
-| Instructor | DIU | Numerical Analysis Lab | CSE-304 | 32 | [🔗 CSE-304](https://drive.google.com/drive/folders/1XUbKYkfTRPPs18S6exWqx5W1N5XjZWFE?usp=drive_link) |
-| Instructor | DIU | Discrete Mathematics | 0613-105 | 38 | [🔗 0613-105](https://drive.google.com/drive/folders/1H6DMeDBQGrtsqXs9lQv0LzedWPX38Lvr?usp=drive_link) |
+### King Fahd University of Petroleum & Minerals (KFUPM)
 
+| Role | Term | Course Title | Course Code | Class Size | Resources |
+|------|------|--------------|-------------|------------|-----------|
+| Instructor | Spring 2026 (Jan – May) | Introduction to Programming in Python and C (Lab) | ICS 104 | 25 | [🔗 ICS104](https://bulletin.kfupm.edu.sa/course-detail?course_code=ICS104) |
 
+### Dhaka International University (DIU)
+
+| Role | Period | Course Title | Course Code | Class Size | Resources |
+|------|------|--------------|-------------|------------|-----------|
+| Instructor | 2024 – 2025 | Algorithms | 0613-205 | 35 | [🔗 0613-205](https://drive.google.com/drive/folders/1rVvyaqt2rK-DPuB0XRvDxF5tVTFaCN-D?usp=drive_link) |
+| Instructor | 2024 – 2025 | Algorithms Lab | 0613-206 | 35 | [🔗 0613-206](https://drive.google.com/drive/folders/1IYroHpD4vCs_YP4kSVlz-OfAQMGvD_Ci?usp=drive_link) |
+| Instructor | 2024 – 2025 | Artificial Intelligence and Neural Networks | CSE-407 | 34 | [🔗 CSE-407](https://drive.google.com/drive/folders/1y1WvsZrV9UM1HMa5T1s9IKXb9i_dRKm9?usp=sharing) |
+| Instructor | 2024 – 2025 | Artificial Intelligence and Neural Networks Lab | CSE-408 | 34 | [🔗 CSE-408](https://drive.google.com/drive/folders/1hLeRJJvg0VxVFAiJIun0htP4kqB9wSrF?usp=sharing) |
+| Instructor | 2023 – 2025 | Numerical Analysis | CSE-303 | 32 | [🔗 CSE-303](https://drive.google.com/drive/folders/1oED0rxNgsHr2wIIP0KXROmg73hpNaHY2?usp=drive_link) |
+| Instructor | 2023 – 2025 | Numerical Analysis Lab | CSE-304 | 32 | [🔗 CSE-304](https://drive.google.com/drive/folders/1XUbKYkfTRPPs18S6exWqx5W1N5XjZWFE?usp=drive_link) |
+| Instructor | 2023 – 2024 | Discrete Mathematics | 0613-105 | 38 | [🔗 0613-105](https://drive.google.com/drive/folders/1H6DMeDBQGrtsqXs9lQv0LzedWPX38Lvr?usp=drive_link) |
 ## Final Year Students Supervision
 
 I have supervised several final year student projects, guiding them through research, development, and implementation. Below is a list of notable projects:
