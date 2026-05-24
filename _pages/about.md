@@ -141,6 +141,10 @@ As a graduate researcher at <a href="https://kcr-lab.github.io/" style="color:#0
 <p class="sec-label">Timeline Highlights</p>
 <div class="timeline">
   <div class="tl-item">
+    <div class="tl-date">21 May 2026</div>
+    <div class="tl-desc"><span class="accent">Alhamdulillah</span> — Completed first semester of PhD with CGPA 3.83/4.00 @ <a href="https://www.kfupm.edu.sa/" style="color:#0049FF;">KFUPM</a></div>
+  </div>
+  <div class="tl-item">
     <div class="tl-date">11 Jan 2026</div>
     <div class="tl-desc"><span class="accent">Alhamdulillah</span> — Started PhD in Information and Computer Science @ <a href="https://www.kfupm.edu.sa/" style="color:#0049FF;">KFUPM</a></div>
   </div>
@@ -150,7 +154,7 @@ As a graduate researcher at <a href="https://kcr-lab.github.io/" style="color:#0
   </div>
   <div class="tl-item">
     <div class="tl-date">17 Nov 2025</div>
-    <div class="tl-desc">Student paper <span class="accent">accepted</span> @ <a href="https://idaa.diu.edu.bd/" style="color:#0049FF;">IDDA-2025</a></div>
+    <div class="tl-desc">My UG thesis student's paper <span class="accent">accepted</span> @ <a href="https://idaa.diu.edu.bd/" style="color:#0049FF;">IDDA-2025</a></div>
   </div>
   <div class="tl-item">
     <div class="tl-date">01 Sep 2025</div>
