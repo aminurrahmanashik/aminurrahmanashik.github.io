@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 **Doctor of Philosophy (PhD) in Information and Computer Science (ICS)**  
-*Graduate Teching Assistant, King Fahd University of Petroleum & Minerals [(KFUPM)](https://www.kfupm.edu.sa)*  
+*Graduate Teaching Assistant, King Fahd University of Petroleum & Minerals [(KFUPM)](https://www.kfupm.edu.sa)*  
 Study Period: <b>January 2026 – Present</b>  
+CGPA: **3.83** / 4.00 *(1st Semester)* 
 
 **Bachelor of Science in Computer Science & Engineering**  
 *Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)*  
