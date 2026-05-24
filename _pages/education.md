@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## Education
-
 ---
 
 **Doctor of Philosophy (PhD) in Information and Computer Science (ICS)**  
