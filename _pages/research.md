@@ -128,14 +128,14 @@ permalink: /research/
 
 <div class="wip-card">
   <span class="wip-badge">J.1 · Under Review</span>
-  <div class="wip-title">BanGRev: A novel Bengali tech gadget review corpus utilizing triple-pooling feature fusion with explainable AI</div>
-  <div class="wip-authors">M.A. Mia, <b>A. Rahman</b>, M.I. Khan, I.H. Sarker</div>
+  <div class="wip-title">Addressing Rating-Review Discrepancy in a Novel Dataset: An Explainable Pharmaceutical Product Evaluation using Multi-Stream Attention Transformer</div>
+  <div class="wip-authors"><b>A. Rahman</b>, M.A. Mia, M.I. Khan, I.H. Sarker <a class="pub-link" href="https://www.authorea.com/doi/full/10.22541/authorea.15003937/v1">[Preprint]</a></div>
 </div>
 
 <div class="wip-card">
   <span class="wip-badge">J.2 · Under Review</span>
-  <div class="wip-title">Addressing Rating-Review Discrepancy in a Novel Dataset: An Explainable Pharmaceutical Product Evaluation using Multi-Stream Attention Transformer</div>
-  <div class="wip-authors"><b>A. Rahman</b>, M.A. Mia, M.I. Khan, I.H. Sarker <a class="pub-link" href="https://www.authorea.com/doi/full/10.22541/authorea.15003937/v1">[Preprint]</a></div>
+  <div class="wip-title">Triple-Pooling Feature Fusion for Transformer-Based Text Classification: A Low-Resource Language Approach with Explainable AI</div>
+  <div class="wip-authors">M.A. Mia, <b>A. Rahman</b>, M.I. Khan, I.H. Sarker</div>
 </div>
 
 <div class="wip-card">
