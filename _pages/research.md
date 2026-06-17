@@ -135,7 +135,13 @@ permalink: /research/
 <div class="wip-card">
   <span class="wip-badge">J.2 · Under Review</span>
   <div class="wip-title">Addressing Rating-Review Discrepancy in a Novel Dataset: An Explainable Pharmaceutical Product Evaluation using Multi-Stream Attention Transformer</div>
-  <div class="wip-authors"><b>A. Rahman</b>, M.A. Mia, M.I. Khan, I.H. Sarker</div>
+  <div class="wip-authors"><b>A. Rahman</b>, M.A. Mia, M.I. Khan, I.H. Sarker <a class="pub-link" href="https://www.authorea.com/doi/full/10.22541/authorea.15003937/v1">[Preprint]</a></div>
+</div>
+
+<div class="wip-card">
+  <span class="wip-badge">J.3 · Under Review</span>
+  <div class="wip-title">BSC: Transformer-Based Bengali Audio Slang Detection in Low-Resource Settings</div>
+  <div class="wip-authors">M.A. Mia, M.S.H. Shohag, <b>A. Rahman</b>, G.S.M. Mursalin, M.I. Khan</div>
 </div>
 
 <hr class="port-divider">
