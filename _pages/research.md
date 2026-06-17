@@ -104,7 +104,7 @@ permalink: /research/
     <span class="pub-badge">C.3</span>
     <div class="pub-title">Addressing the Mental Health Crisis: Understanding Suicidal Risk Factors in University Students Through Interpretable Machine Learning</div>
     <div class="pub-authors">A. Islam, <b>A. Rahman</b>, M.J. Abdin, O. Rahaman, M.N. Alam</div>
-    <div class="pub-venue">IDAA 2025, Springer</div>
+    <div class="pub-venue">IDAA 2025, Springer <a class="pub-link" href="https://www.atlantis-press.com/proceedings/idaa-25/126024891">[Paper]</a></div>
   </div>
 
   <div class="pub-card">
