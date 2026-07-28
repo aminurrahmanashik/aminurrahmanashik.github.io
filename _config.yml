@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "aminur-rahman-642913161"
-  #orcid            : "https://orcid.org/0009-0006-6411-8982"
+  orcid            : "https://orcid.org/0009-0006-6411-8982"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  scopus           : https://www.scopus.com/authid/detail.uri?authorId=59217774300
 
 
 # Reading Files
