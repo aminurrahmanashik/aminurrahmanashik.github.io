@@ -139,9 +139,15 @@ permalink: /research/
 </div>
 
 <div class="wip-card">
-  <span class="wip-badge">J.3 · Under Review</span>
+  <span class="wip-badge">J.3 · With Editor</span>
   <div class="wip-title">BSC: Transformer-Based Bengali Audio Slang Detection in Low-Resource Settings</div>
   <div class="wip-authors">M.A. Mia, M.S.H. Shohag, <b>A. Rahman</b>, G.S.M. Mursalin, M.I. Khan</div>
+</div>
+
+<div class="wip-card">
+  <span class="wip-badge">J.4 · With Editor</span>
+  <div class="wip-title">Machine Learning for Suicidal Risk Identification Among University Students: An Explainable and Subgroup-Aware Approach</div>
+  <div class="wip-authors"><b>A. Rahman</b>, H.A. Jamimi</div>
 </div>
 
 <hr class="port-divider">
