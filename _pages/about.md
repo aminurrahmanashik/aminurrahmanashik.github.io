@@ -141,6 +141,11 @@ As a graduate researcher at <a href="https://kcr-lab.github.io/" style="color:#0
 <p class="sec-label">Timeline Highlights</p>
 <div class="timeline">
   <div class="tl-item">
+    <div class="tl-date">26 Jul 2026</div>
+    <div class="tl-desc"><span class="accent">Alhamdulillah</span> — Received reviewer recognition certificate for reviewing an article @ <a 
+    href="https://www.linkedin.com/feed/update/urn:li:activity:7487656374517002240/" style="color:#0049FF;">Data in Brief (Elsevier)</a></div>
+  </div>
+  <div class="tl-item">
     <div class="tl-date">21 May 2026</div>
     <div class="tl-desc"><span class="accent">Alhamdulillah</span> — Completed first semester of PhD with CGPA 3.83/4.00 @ <a href="https://www.kfupm.edu.sa/" style="color:#0049FF;">KFUPM</a></div>
   </div>
